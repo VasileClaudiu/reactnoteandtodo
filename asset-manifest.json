@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactnoteandtodo/static/css/main.0a4fc402.chunk.css",
+    "main.js": "/reactnoteandtodo/static/js/main.00654410.chunk.js",
+    "main.js.map": "/reactnoteandtodo/static/js/main.00654410.chunk.js.map",
+    "runtime-main.js": "/reactnoteandtodo/static/js/runtime-main.7b5a5aed.js",
+    "runtime-main.js.map": "/reactnoteandtodo/static/js/runtime-main.7b5a5aed.js.map",
+    "static/css/2.323bf276.chunk.css": "/reactnoteandtodo/static/css/2.323bf276.chunk.css",
+    "static/js/2.94161e2d.chunk.js": "/reactnoteandtodo/static/js/2.94161e2d.chunk.js",
+    "static/js/2.94161e2d.chunk.js.map": "/reactnoteandtodo/static/js/2.94161e2d.chunk.js.map",
+    "index.html": "/reactnoteandtodo/index.html",
+    "precache-manifest.be86400382e1e9bb7d6894d668581057.js": "/reactnoteandtodo/precache-manifest.be86400382e1e9bb7d6894d668581057.js",
+    "service-worker.js": "/reactnoteandtodo/service-worker.js",
+    "static/css/2.323bf276.chunk.css.map": "/reactnoteandtodo/static/css/2.323bf276.chunk.css.map",
+    "static/css/main.0a4fc402.chunk.css.map": "/reactnoteandtodo/static/css/main.0a4fc402.chunk.css.map",
+    "static/media/font-awesome.min.css": "/reactnoteandtodo/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/reactnoteandtodo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5a5aed.js",
+    "static/css/2.323bf276.chunk.css",
+    "static/js/2.94161e2d.chunk.js",
+    "static/css/main.0a4fc402.chunk.css",
+    "static/js/main.00654410.chunk.js"
+  ]
+}
